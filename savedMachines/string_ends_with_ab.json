@@ -1,0 +1,1 @@
+[[{"edge":"y","Final":false,"symbol":"b"},{"edge":"y","Final":false,"symbol":"a"},{"edge":"n","Final":true,"symbol":"-"}],[{"edge":"n","symbol":"-"},{"edge":"y","symbol":"a"},{"edge":"y","symbol":"b"}],[{"edge":"y","symbol":"b"},{"edge":"y","symbol":"a"},{"edge":"n","symbol":"-"}]]
